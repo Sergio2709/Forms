@@ -33,19 +33,19 @@ const mensajesError = {
     },
     telefono:{
         valueMissing: "El campo telefono no puede estar vacio",
-        patternMismatch: "La direccion debe contener entre 10 a 40 caracteres"
+        patternMismatch: "El telefono debe estar en el formato XXX XXX XXXX"
     },
     direccion:{
         valueMissing: "El campo ciudad no puede estar vacio",
-        patternMismatch: "La ciudad debe contener entre 5 a 20 caracteres"
+        patternMismatch: "La ciudad debe contener entre 10 a 40 caracteres"
     },
     ciudad:{
-        valueMissing: "El campo telefono no puede estar vacio",
+        valueMissing: "El campo ciudad no puede estar vacio",
          patternMismatch: "La ciudad debe contener entre 5 a 20 caracteres"
     },
     estado:{
-        valueMissing: "El campo telefono no puede estar vacio",
-        patternMismatch: "El formato requerido es XXX XXX XXXX"
+        valueMissing: "El campo estado no puede estar vacio",
+        patternMismatch: "La ciudad debe contener entre 5 a 20 caracteres"
     },
 };
 
